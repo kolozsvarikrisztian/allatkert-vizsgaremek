@@ -1,0 +1,6 @@
+[submodule "allatkert-vizsgaremek_backend"]
+	path = allatkert-vizsgaremek_backend
+	url = https://github.com/kolozsvarikrisztian/allatkert-vizsgaremek_backend.git
+[submodule "allatkert-vizsgaremek_frontend"]
+	path = allatkert-vizsgaremek_frontend
+	url = https://github.com/kolozsvarikrisztian/allatkert-vizsgaremek_frontend.git
